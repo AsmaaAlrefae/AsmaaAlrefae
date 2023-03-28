@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AsmaaAlrefae/AsmaaAlrefae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 📫How to reach me: 
 
 - LinkedIn: https://www.linkedin.com/in/asmaaalrefae/
-
-😄 Pronouns: She/Her
  
 ⚡Fun fact: I love dates 🌴and usually carry a plastic bag full of them. Don't act weird if I offer you some 😁
 
@@ -42,17 +40,6 @@ Here are some ideas to get you started:
 
 I hope that sets the tone for how weird I am.😂
 
-## Skills:
-
-- Data analysis: pandas, SQL, R
-
-- Machine learning: scikit-learn, TensorFlow
-
-- Data visualization: matplotlib, seaborn, Tableau
-
-- Programming: Python, R, SQL
-
-- Other tools: Git, Jupyter Notebook, Google Analytics
 
 ## Projects:
 
