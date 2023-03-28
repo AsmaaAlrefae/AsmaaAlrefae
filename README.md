@@ -32,18 +32,14 @@ Here are some ideas to get you started:
 
 - Mavens.
 
-- MBTI test:ISTJ-T
+- MBTI test: ISTJ-T
 
-- Enneagram test:5w6
+- Enneagram test: 5w6
 
-- StandOut test:Connector and equalizer
+- StandOut test: Connector and equalizer
 
-I hope that sets the tone for how weird I am.😂
+I hope that sets the tone for how weird I am 😂.
 
-
-## Projects:
-
-- [Predicting House Prices with Machine Learning](https://github.com/asmaa-a-alrefae/house-price-prediction): A machine learning project to predict house prices based on various features.
 
 
 
