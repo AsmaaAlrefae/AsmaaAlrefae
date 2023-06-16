@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on building my skills in machine learning and artificial intelligence.
 
-🌱 I’m currently learning about deep learning and natural language processing.
-
 💬 Ask me about my experience working as a data analyst and my passion for using data to solve problems.
 
 📫How to reach me: 
@@ -33,8 +31,6 @@ Here are some ideas to get you started:
 - Mavens.
 
 - MBTI test: ISTJ-T
-
-- Enneagram test: 5w6
 
 - StandOut test: Connector and equalizer
 
